@@ -1,0 +1,8 @@
+event_timestamp,tag__id,tag__name,tag__desc,tag__value,tag__unit
+06-05-2022 21:58:33,35827,L_R1SDW_SPDREF,R1 Screw Down WS Speed Reference (mps),0.0,mps
+06-05-2022 21:58:43,35828,L_R1SDD_SPDREF,R1 Screw Down DS Speed Reference (mps),29.866667,mps
+06-05-2022 21:58:53,35829,L_R1SDL_SPDREF,R1 Screw Down LS Speed Reference (mps),0.0,mps
+06-05-2022 21:59:03,35830,L_R1SDW_SPDFBK,R1 Screw Down WS Speed Feedback (mps),10.5504,mps
+06-05-2022 21:59:13,35831,L_R1SDD_SPDFBK,R1 Screw Down DS Speed Feedback (mps),0.0,mps
+06-05-2022 21:59:23,35832,L_R1SDL_SPDFBK,R1 Screw Down LS Speed Feedback (mps),0.0,mps
+06-05-2022 21:59:33,35974,L_R1_ODG_AUX_B07,R1 ODG AUX output B07,1.0,
